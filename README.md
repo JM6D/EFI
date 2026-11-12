@@ -1,6 +1,6 @@
 # EFI for Dell Precision 5820
 
-This repository contains an OpenCore EFI configuration for booting macOS Catalina on a Dell Precision 5820 workstation.
+This repository contains an OpenCore EFI configuration for booting macOS Catalina on a Dell Precision 5820 workstation. Do not forget to generate a valid serial with GenSMBIOS. 
 
 ## Overview
 
